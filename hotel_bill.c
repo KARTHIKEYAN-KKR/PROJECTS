@@ -194,7 +194,7 @@ void print()
     }
     if(POORI_COUNT>0)
     {
-        printf("\t  Aapam  \t");
+        printf("\t  Poori  \t");
         printf("\t\t %d \t\t",POORI_PRICE);
         printf("\t %d    \t",POORI_COUNT);
         printf("\t\t  %d  \t",POORI_PRICE * POORI_COUNT);
@@ -377,7 +377,7 @@ Enter your Aapam count:  8
           Idly                           10                      3                        30  
           Dosa                           20                      2                        40  
           Pongal                         30                      2                        60  
-          Aapam                          25                      4                        100  
+          Poori                          25                      4                        100  
           Aapam                          15                      8                        120  
           --------------------------------------------------------------------------------------- 
                                                                   Total Amount      =     350
@@ -413,7 +413,7 @@ Enter your Aapam count:  3
           Idly                           10                      9                        90  
           Dosa                           20                      3                        60  
           Pongal                         30                      3                        90  
-          Aapam                          25                      7                        175  
+          Poori                          25                      7                        175  
           Aapam                          15                      11                       165  
           --------------------------------------------------------------------------------------- 
                                                                   Total Amount      =     580
@@ -453,7 +453,7 @@ Enter your Aapam count:  7
           Idly                           10                      4                        40  
           Dosa                           20                      2                        40  
           Pongal                         30                      5                        150  
-          Aapam                          25                      3                        75  
+          Poori                          25                      3                        75  
           Aapam                          15                      7                        105  
           --------------------------------------------------------------------------------------- 
                                                                   Total Amount      =     410
@@ -482,7 +482,7 @@ Enter your Extra Order choice : 2
           Idly                           10                      4                        40  
           Dosa                           20                      2                        40  
           Pongal                         30                      5                        150  
-          Aapam                          25                      3                        75  
+          Poori                          25                      3                        75  
           Aapam                          15                      7                        105  
           --------------------------------------------------------------------------------------- 
                                                                   Total Amount      =     410
